@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Gunjan Srivastava, a seasoned IT professional with over a decade of experience in the field of IT training. Throughout my journey, I've developed a strong passion for coding and technology, which has driven me to constantly expand my knowledge and skills in this dynamic industry. My love for coding goes hand in hand with my desire to help others, and I find immense satisfaction in sharing my expertise and guiding others on their learning journeys. 
 <!--
 **Gunjan22Sri/Gunjan22Sri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-📫 How to reach me: gunjan.srivastava1986@gmail.com
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📫 How to reach me: gunjan.srivastava1986@gmail.com
